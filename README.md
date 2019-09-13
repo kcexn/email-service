@@ -1,0 +1,1 @@
+# Firebase Function Email Service
